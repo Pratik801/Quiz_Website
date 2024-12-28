@@ -1,15 +1,9 @@
-# Quiz_Website
-This is a Quiz Website built using PHP, MySQL, and XAMPP. The platform allows students to register, log in, and take quizzes, with their scores tracked and ranked in the database. It serves as a practical demonstration of full-stack development concepts and database integration.
+# Online-Quiz-System
+Today Online Quiz System has become a fast growing examination method because of its speed and accuracy. It is also needed less manpower to execute the examination. Almost all organizations now-a-days, are conducting their objective exams by online examination or quiz system, it saves students time in examinations. Organizations can also easily check the performance of the student that they give in an examination. As a result of this, organizations are releasing results in less time. It also helps the environment by saving paper. According to today’s requirement, online examination project in PHP is very useful to learn it.
 
-User Registration and Login
-Students can create an account and securely log in.
-Quiz Functionality
-Students can take tests, and their scores are stored in a database.
-Rankings
-The website tracks user performance and displays rankings based on test scores.
-Database Integration
-Fully connected to a MySQL database for managing users, quizzes, and results.
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Database: MySQL
-Server: XAMPP (Apache & MySQL)
+
+
+Attention 
+----------------------------
+exam.rar file contains all the css files, plugins and images.
+----------------------------
